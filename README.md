@@ -2,6 +2,8 @@
 
 Following the advice here: https://www.youtube.com/watch?v=HiF83i1OLOM
 
+- 2025-07-09: RAPID Steering Committee presentation on using R to work with RAPID data
+- 2025-07-09: Continued work on ropensci pkgstats bug fixes
 - 2025-07-08: Continued work on ropensci pkgstats bug fixes
 - 2025-07-07: Assisted Jake with drafting of bullets for probationary review
 - 2025-07-07: Followed up with ropensci review that I am editing
